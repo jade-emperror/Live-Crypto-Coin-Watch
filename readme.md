@@ -1,5 +1,6 @@
 ##System Design
-<img src="readme.md"> 
+<img src="./system_design.png"> 
+<a href="https://drive.google.com/file/d/1T253V5yif0cUKLpnJpwFW1D45Emw5kat/view">source</a>
 
 ##How To Setup
 
