@@ -1,27 +1,28 @@
-##System Design
+## System Design
 <img src="./system_design.png"> 
+
 <a href="https://drive.google.com/file/d/1T253V5yif0cUKLpnJpwFW1D45Emw5kat/view">source</a>
 
-##How To Setup
+## How To Setup
 
-###Frontend
+### Frontend
 ```
 npm install
 ```
-###Backend
+### Backend
 Install Dependencies
 ```
 npm install
 ```
-##How to start
+## How to start
 
-###Frontend
+### Frontend
 <bold>Start Frontend Server</bold>
 
 ```
 npm start
 ```
-###Backend
+### Backend
 In bankend we have to start three components.
 1.updateEngine -> responsible for updating coins every 10second.
 2.liveUpdateWebSocket -> websocket for updating live crypto price.
@@ -29,12 +30,12 @@ In bankend we have to start three components.
 
 <bold>Execute follwoing commands in seperate terminals</bold>
 
-####Run the below command to start update engine
+#### Run the below command to start update engine
 ```
 npm run engine
 ```
 
-####Run the below command to start websocket
+#### Run the below command to start websocket
 ```
 npm run serve
 ```
